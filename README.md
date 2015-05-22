@@ -2,5 +2,5 @@
 
 index at 
 ```
-foundation/foundation/index.html
+foundation/index.html
 ```
