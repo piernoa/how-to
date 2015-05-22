@@ -1,0 +1,25 @@
+.sub-nav dt.active a, .sub-nav dd.active a, .sub-nav li.active a {
+  background: #EF4836 !important;
+}
+
+p a, li a {
+	color: #EF4836 !important;;
+}
+.imagePad {
+	margin-bottom:15px;
+}
+.centered {
+	text-align:center !important;
+}
+.hero1 {
+	height:94% !important; 
+}
+.top20 {
+	margin-top:20%;
+}
+.top25px {
+	margin-top:25px
+}
+.top3 {
+	margin-top:3%;
+}
